@@ -14,5 +14,10 @@ return [
             'repo' => 'clarkwinkelmann/flarum-ext-formulaire',
             'locales' => ['en', 'fr'],
         ],
+        'custom-paths' => [
+            'name' => 'Custom Paths',
+            'repo' => 'kilowhat/flarum-ext-custom-paths',
+            'locales' => ['en'],
+        ],
     ],
 ];
